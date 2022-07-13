@@ -1,6 +1,6 @@
 #language: pt
 @setup
-Funcionalidade: Testar
+Funcionalidade: Testar login
 
   Contexto:
     Dado que acesso a página de login
